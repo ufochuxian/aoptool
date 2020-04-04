@@ -1,0 +1,2 @@
+rootProject.name='AopTool'
+include ':app'
